@@ -1,7 +1,7 @@
 mport os
 import sys
 
-path = '/home/<your-username>/my-first-blog'  # use your own username here
+path = '/home/Abardo/django_site/mysite'  # use your own username here
 if path not in sys.path:
     sys.path.append(path)
 
