@@ -1,4 +1,4 @@
-mport os
+import os
 import sys
 
 path = '/home/Abardo/django_site/mysite'  # use your own username here
